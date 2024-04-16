@@ -1,0 +1,28 @@
+{
+  "name": "primogem-chaser",
+  "version": "1.0.0",
+  "description": "A snake-style game where the player chases primogems.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/your-repo.git"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/your-username/your-repo/issues"
+  },
+  "homepage": "https://github.com/your-username/your-repo#readme",
+  "dependencies": {
+    "pixi.js": "^5.3.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
