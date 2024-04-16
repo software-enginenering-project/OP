@@ -7,17 +7,18 @@ Primogem Chaser is a snake-style game where the player aims to collect gems by c
 To run the game locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   
-git clone https://github.com/nanshou666/snake.git
+
+   git clone https://github.com/nanshou666/software-engineering-project.git
 
 
-2. Navigate to the project directory:
+
+3. Navigate to the project directory:
 cd snake
 
-3. Install dependencies:
+4. Install dependencies:
 npm install
 
-4. Start the development environment:
+5. Start the development environment:
 npm start
 
 
