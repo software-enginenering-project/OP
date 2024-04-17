@@ -8,6 +8,11 @@
     "build": "webpack --config webpack.config.js",
     "dev": "webpack --watch --config webpack.config.js"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/software-engineering-project/OP.git"
+  },
+
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
