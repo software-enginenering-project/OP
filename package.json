@@ -2,7 +2,7 @@
   "name": "primogem-chaser",
   "version": "1.0.0",
   "description": "A snake-style game where the player collects gems.",
-  "main": "src/scripts/core/snake.js",
+  "main": "src/scripts/snake.js",
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.config.js",
     "build": "webpack --config webpack.config.js",
